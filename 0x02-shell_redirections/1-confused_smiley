@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "(Ôo)" | pr
+echo -e "¯\\_(ツ)_/¯"
